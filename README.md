@@ -73,19 +73,19 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/ts.png" height=30 hspace=20>
+  <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height=30 hspace=20>
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/nodejs.png" height=50 hspace=20>
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/nginx.png" height=30 hspace=20>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=30 hspace=20>
 </p>
 <p align="center">
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/android.png" height=40 hspace=20>
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/cpp.png" height=40 hspace=20>
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/python.png" height=40 hspace=20>
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/redis.png" height=40 hspace=20>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" height=40 hspace=20>
 </p>
 <p align="center">
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/sql.png" height=40 hspace=20>
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/mongodb.png" height=40 hspace=20>
+<!--   <img src="https://github.com/bajajra/bajajra/blob/master/assets/mongodb.png" height=40 hspace=20> -->
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/firebase.png" height=40 hspace=20>
 </p>
 <p align="center">
