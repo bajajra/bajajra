@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/bajajra/bajajra/blob/master/assets/mail.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://stackoverflow.com/users/">
+  <a href="https://stackoverflow.com/users/14028904/rahul-bajaj">
     <img src="https://github.com/bajajra/bajajra/blob/master/assets/stackoverflow.png" width="30" height="30" hspace="20">
   </a>
 
