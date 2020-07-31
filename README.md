@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/firebase.png" height=40 hspace=20>
 </p>
 <p align="center">
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/react.png" height=30>
+  <img src="https://github.com/bajajra/bajajra/blob/master/assets/react.png" height=50>
 </p>
 
 <br>
