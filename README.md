@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height=30 hspace=20>
+  <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height=50 hspace=20>
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/nodejs.png" height=50 hspace=20>
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=30 hspace=20>
 </p>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/bajajra/bajajra/blob/master/assets/firebase.png" height=40 hspace=20>
 </p>
 <p align="center">
-  <img src="https://github.com/bajajra/bajajra/blob/master/assets/react.png" height=50>
+  <img src="https://github.com/bajajra/bajajra/blob/master/assets/react.png" height=60>
 </p>
 
 <br>
