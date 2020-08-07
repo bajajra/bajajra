@@ -37,8 +37,8 @@ Here are some ideas to get you started:
     <img src="https://github.com/bajajra/bajajra/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://github.com/bajajra">
-    <img src="https://github.com/bajajra/bajajra/blob/master/assets/github.png" width="30" height="30" hspace="20">
+  <a href="https://twitter.com/bajajra30">
+    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" hspace="20">
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <code>
-  I am Rahul Bajaj, <strong>SDE-2 at Walmart Labs</strong>
+  I am Rahul Bajaj, <strong>SDE-2 at Walmart Global Tech India</strong>
   </code>
 </p>
 
