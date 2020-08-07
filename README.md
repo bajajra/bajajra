@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://twitter.com/bajajra30">
-    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/bajajra/bajajra/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
   </a>
 </p>
 
