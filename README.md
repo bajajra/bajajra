@@ -97,6 +97,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/bajajra">
-    <img src="https://github-readme-stats.vercel.app/api?username=bajajra" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bajajra&show_icons=true&theme=radical" />
   </a>
 </p>
