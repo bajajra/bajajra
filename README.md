@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <code>
-  I am Rahul Bajaj, <strong>SDE-2 at Walmart Global Tech India</strong>
+  I am Rahul Bajaj, <strong>Data Scientist III at Walmart Global Tech India</strong>
   </code>
 </p>
 
